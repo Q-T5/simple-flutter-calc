@@ -1,16 +1,15 @@
-# simplecalculator
+# Simple Flutter Calculator
+## DETAILS
+- Author: **Bikathi Martin**
+- Language: Dart
+- Framework: Flutter
+- Target Platform: Android 9+
+- License: Apache2.0
 
-A new Flutter project.
+## ABOUT
+This is my first ever Flutter project deployed on Android. It works well on Android 9+ and is a simple calculator app written with Flutter's material UI widget and the `setState()` function.
+Feel free to download the app in the releases section and try it out.
+Below is a simple demo of the app :)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## APP DEMO
+![simple-flutter-calculator-demo](https://user-images.githubusercontent.com/98804363/236175369-86f15296-1b9b-4827-b1a9-e0886b464325.gif)
